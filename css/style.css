@@ -44,10 +44,10 @@ body .preloader_active{
 
 }
 .preloader_spin h2{
-    margin-top: 230px;
-    font-size: 120px;
+    margin-top: 180px;
+    font-size: 100px;
     font-style: italic;
-    color: #00FF1D;
+    color: #90be6d;
 }
 
 .container{
