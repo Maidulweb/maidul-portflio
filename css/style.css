@@ -276,7 +276,7 @@ body .preloader_active{
 .overlay {
 	position: absolute;
 	top: 0;
-	padding-top: 64px;
+	padding-top: 57px;
 	padding-left: 72px;
 	opacity: 0;
 }
