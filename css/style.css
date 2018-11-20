@@ -276,15 +276,17 @@ body .preloader_active{
 .overlay {
 	position: absolute;
 	top: 0;
-	padding-top: 88px;
-	padding-left: 132px;
+	padding-top: 64px;
+	padding-left: 72px;
 	opacity: 0;
 }
 .overlay i {
-	background: #00FF13;
-	padding: 6px 4px 4px 8px;
+	padding: 13px 10px 10px 12px;
 	font-size: 23px;
-	border-radius: 5px;
+	border-radius: 50%;
+	color: #008000;
+	background: #37371f;
+	font-weight: bold;
 }
 .portfolio_box img {
 	width: 270px;
